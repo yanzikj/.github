@@ -1,12 +1,5 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🙋‍♀️ 简介 - 您的组织是做什么的？
+🌈 贡献指南 - 社区如何参与？
+👩‍💻 实用资源 - 社区可以在哪里找到您的文档？还有什么其他信息需要社区了解？
+🍿 趣味知识 - 您的团队早餐吃什么？
+🧙 记住，您可以使用 [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) 的强大功能做很多事情。
